@@ -56,8 +56,3 @@ This project is ideal for data analysts, music industry professionals, or enthus
 * Filtering by genre, region, or language.
 
 
-## Short Description
-
-**Short Description:**
-A Power BI dashboard analyzing Spotify streaming data, showcasing top artists, songs, and track features like danceability and energy, with insights across time.
-
